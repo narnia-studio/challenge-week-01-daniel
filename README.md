@@ -31,8 +31,7 @@ mmmPie(arr, 8)
 <summary>Challenge (en)</summary>
 <div>
 Given an array of people objects (where each person has a name and a number of pie pieces they’re hungry for) and a number for the number of pieces that the pie can be cut into, return the number of pies you need to buy.
-
-
+<br/>
 ```ts
 interface Pessoa {
 name: string;
