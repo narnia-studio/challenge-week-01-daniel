@@ -53,4 +53,4 @@ console.log(mmmPie(arr, 8)) // result = 2 -> 16 pieces needed, pies can be cut i
 
 
 Question source: 
-[rendezvous with cassidoo]('https://buttondown.email/cassidoo/archive/8309/')
+(rendezvous with cassidoo)['https://buttondown.email/cassidoo/archive/8309/']
